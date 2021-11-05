@@ -1,0 +1,16 @@
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\22.05.11.2021-Static, extention, enum, struct\Codes\StaticExtEnumStruct\StaticExtEnumStruct\bin\Debug\net5.0\StaticExtEnumStruct.exe
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\22.05.11.2021-Static, extention, enum, struct\Codes\StaticExtEnumStruct\StaticExtEnumStruct\bin\Debug\net5.0\StaticExtEnumStruct.deps.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\22.05.11.2021-Static, extention, enum, struct\Codes\StaticExtEnumStruct\StaticExtEnumStruct\bin\Debug\net5.0\StaticExtEnumStruct.runtimeconfig.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\22.05.11.2021-Static, extention, enum, struct\Codes\StaticExtEnumStruct\StaticExtEnumStruct\bin\Debug\net5.0\StaticExtEnumStruct.runtimeconfig.dev.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\22.05.11.2021-Static, extention, enum, struct\Codes\StaticExtEnumStruct\StaticExtEnumStruct\bin\Debug\net5.0\StaticExtEnumStruct.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\22.05.11.2021-Static, extention, enum, struct\Codes\StaticExtEnumStruct\StaticExtEnumStruct\bin\Debug\net5.0\ref\StaticExtEnumStruct.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\22.05.11.2021-Static, extention, enum, struct\Codes\StaticExtEnumStruct\StaticExtEnumStruct\bin\Debug\net5.0\StaticExtEnumStruct.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\22.05.11.2021-Static, extention, enum, struct\Codes\StaticExtEnumStruct\StaticExtEnumStruct\obj\Debug\net5.0\StaticExtEnumStruct.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\22.05.11.2021-Static, extention, enum, struct\Codes\StaticExtEnumStruct\StaticExtEnumStruct\obj\Debug\net5.0\StaticExtEnumStruct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\22.05.11.2021-Static, extention, enum, struct\Codes\StaticExtEnumStruct\StaticExtEnumStruct\obj\Debug\net5.0\StaticExtEnumStruct.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\22.05.11.2021-Static, extention, enum, struct\Codes\StaticExtEnumStruct\StaticExtEnumStruct\obj\Debug\net5.0\StaticExtEnumStruct.AssemblyInfo.cs
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\22.05.11.2021-Static, extention, enum, struct\Codes\StaticExtEnumStruct\StaticExtEnumStruct\obj\Debug\net5.0\StaticExtEnumStruct.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\22.05.11.2021-Static, extention, enum, struct\Codes\StaticExtEnumStruct\StaticExtEnumStruct\obj\Debug\net5.0\StaticExtEnumStruct.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\22.05.11.2021-Static, extention, enum, struct\Codes\StaticExtEnumStruct\StaticExtEnumStruct\obj\Debug\net5.0\ref\StaticExtEnumStruct.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\22.05.11.2021-Static, extention, enum, struct\Codes\StaticExtEnumStruct\StaticExtEnumStruct\obj\Debug\net5.0\StaticExtEnumStruct.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\22.05.11.2021-Static, extention, enum, struct\Codes\StaticExtEnumStruct\StaticExtEnumStruct\obj\Debug\net5.0\StaticExtEnumStruct.genruntimeconfig.cache
